@@ -1,8 +1,8 @@
 ## BEDANT SHAURYA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <a href="https://github.com/bedant-cybully" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="GitHub Profile" align="right"></a>
 
-- 👨🏻‍💻 **Electronics and Telecommunication Engineering** student at RVCE
-- 🔭 **Astrophysics 
+- 👨🏻‍💻 **Electronics and Telecommunication Engineering** student at RVCE, bridging hardware engineering with software architectures.
+- 🔭 **President of Dhruva** (RVCE's Astronomy & Astrophysics Club) — managing data-driven infrastructure, radio telescope systems, and research verticals.
 - 📡 Working on custom hardware setups, radio metrics, and electromagnetic field simulations to capture the 21 cm neutral hydrogen line ($1420.4\text{ MHz}$).
 - 🔐 Active **CTF Competitor** exploring cryptography primitives, digital forensics, and blockchain exploit concepts.
 
@@ -27,7 +27,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <h2>Languages, Tools & Simulation Ecosystems</h2>
 
 <p align="center">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
 
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
   <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
@@ -41,7 +41,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   </a>
 
   <br><br>
-  <!-- Engineering Simulation Toolkit -->
+  <!-- Technical Toolkit & Engineering Badges -->
   <img src="https://img.shields.io/badge/MATLAB-Computation-red?style=flat-square" alt="MATLAB"/>
   &nbsp;
   <img src="https://img.shields.io/badge/ARM_Assembly-Low--Level-blue?style=flat-square" alt="ARM Assembly"/>
@@ -50,12 +50,9 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   &nbsp;
   <img src="https://img.shields.io/badge/Vivado-VIO_%7C_Tcl-orange?style=flat-square" alt="Vivado"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/openEMS-EM_Solver-darkgreen?style=flat-square" alt="openEMS"/>
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blueviolet?style=flat-square" alt="DSA"/>
 </p>
 </p>
-
-<!-- Original animated source gif is preserved here -->
-![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
 
 <img src="https://github-readme-stats.vercel.app/api?username=bedant-cybully&show_icons=true&theme=radical&hide_border=true"> 
 
@@ -90,7 +87,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-<!-- Integrated Personal Contribution Snake Grid -->
+<!-- Contribution Snake Grid Configuration -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bedant-cybully/bedant-cybully/output/github-contribution-grid-snake-dark.svg">
