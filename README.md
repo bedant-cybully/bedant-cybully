@@ -1,20 +1,17 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<a href="https://x.com/I_Aditya_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+## BEDANT SHAURYA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<a href="https://github.com/bedant-cybully" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="GitHub Profile" align="right"></a>
 
-
-
-- 👨🏻‍💻 My expertise encompasses both manual and automated testing methodologies, complemented by a strong proficiency in a diverse array of testing tools and frameworks.
-- 🥅 Coding automation projects ⚡
-- 🔭 Deeply committed to achieving product excellence. ⚡
+- 👨🏻‍💻 **Electronics and Telecommunication Engineering** student at RVCE, bridging hardware engineering with software architectures.
+- 🔭 **Astrophysics 
+- 📡 Working on custom hardware setups, radio metrics, and electromagnetic field simulations to capture the 21 cm neutral hydrogen line ($1420.4\text{ MHz}$).
+- 🔐 Active **CTF Competitor** exploring cryptography primitives, digital forensics, and blockchain exploit concepts.
 
 <br />
 <br />
 
 ## Connect with me 🔗: 
-[<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="adityamangal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-<a href="https://dev.to/adityamangal1">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Mangal's DEV Community Profile" height="30" width="30">
+<a href="https://github.com/bedant-cybully">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bedant Shaurya's Profile" height="30" width="30">
 </a>
 
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img
@@ -22,12 +19,12 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 
 <p align="center">
 <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adityamangal1.Pretty-Readme">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2021-blueviolet">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bedant-cybully.Pretty-Readme&color=00FFCC">
+  <img src="https://img.shields.io/badge/Open--Source-Enthusiast-blueviolet">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
   
 
-  <h2>Languages & Frameworks & Tools</h2>
+  <h2>Languages, Tools & Simulation Ecosystems</h2>
 
 <p align="center">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
@@ -37,29 +34,33 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <code><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
- 
-</a>
+  </a>
   
-  <a href="https://github.com/adityamangal1">
+  <a href="https://github.com/bedant-cybully">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   </a>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 
+  <br><br>
+  <!-- Engineering Simulation Toolkit -->
+  <img src="https://img.shields.io/badge/MATLAB-Computation-red?style=flat-square" alt="MATLAB"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ARM_Assembly-Low--Level-blue?style=flat-square" alt="ARM Assembly"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LTspice-Circuit_Simulation-brightgreen?style=flat-square" alt="LTspice"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vivado-VIO_%7C_Tcl-orange?style=flat-square" alt="Vivado"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/openEMS-EM_Solver-darkgreen?style=flat-square" alt="openEMS"/>
 </p>
 </p>
 
-<!-- ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif) -->
+<!-- Original animated source gif is preserved here -->
+![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&&theme=radical"> 
-
-  
-
+<img src="https://github-readme-stats.vercel.app/api?username=bedant-cybully&show_icons=true&theme=radical&hide_border=true"> 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
+<img src="https://github-profile-trophy.vercel.app/?username=bedant-cybully&theme=flat&margin-w=15">
 </p>
 
   <div align="center">
@@ -89,14 +90,20 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-
-![snake svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<!-- Integrated Personal Contribution Snake Grid -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bedant-cybully/bedant-cybully/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bedant-cybully/bedant-cybully/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bedant-cybully/bedant-cybully/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
 
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://i.stack.imgur.com/NSHyg.gif">
   
   <br>
-  <strong>Happy Coding</strong> ❤️
+  <strong>Happy Engineering</strong> 📡⚡
 </p>
 
 <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
