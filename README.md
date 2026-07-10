@@ -1,60 +1,24 @@
-<!-- HEADER SECTION -->
-<div align="center">
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=HELLO+WORLD!+👋;EXPLORING+THE+COSMOS+🚀;BUILDING+THE+FUTURE+⚡" alt="Typing SVG" />
-  
-  <p align="center">
-    Welcome to my digital workshop. I build software, design circuits, and explore data.
-  </p>
+# 💫 About Me:
+LEARNING :<br>DSA <br>EMBEDDED <br>VERILOG <br>MATLAB<br>
 
-  <!-- Quick Social Badges -->
-  <p align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/bedant-cybully?label=Followers&style=social" alt="Followers"></a>
-  </a>
-</div>
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bedant-cybully&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bedant-cybully&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bedant-cybully&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- MAIN CONTENT SECTION -->
-## 🌌 Core Matrix & Interests
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bedant-cybully&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📈 Dashboard & Performance Metrics
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- GitHub Language Stats Card with Synthwave/Radical Theme -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Top Languages" />
-      </td>
-      <!-- GitHub Main Stats Card -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- Contribution Streak Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bedant-cybully&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=bedant-cybully&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🐍 The Contribution Grid
-
-Below is the dynamic playground where a pixel snake eats through my commit history in real-time. 
-
-<div align="center">
-  <!-- This links to the automated snake file that will be generated in Step 2 -->
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
----
-
-<!-- FOOTER VISITOR COUNTER -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FFCC&style=flat-square&label=MATRIX+VISITS" alt="Visitor Counter" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
