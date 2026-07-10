@@ -1,9 +1,10 @@
 ## BEDANT SHAURYA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <a href="https://github.com/bedant-cybully" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="GitHub Profile" align="right"></a>
 
-- 👨🏻‍💻 **Electronics and Telecommunication Engineering** student at RVCE.
+- 👨🏻‍💻 **RVCE**
 - 🔭 **ASTROPHYSICS**
 - 🔐 **CTFs**
+- SOMEONE HELP ME COMPLETE MY DSA
 
 <br />
 <br />
@@ -84,6 +85,10 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
+
+<div>
+  <img src="https://www.magnific.com/free-vector/xaillustration-businessman-celebrating-success-by-raising-his-hands_176962760.htm#fromView=keyword&page=1&position=0&uuid=18093e05-10fc-4cd9-92ba-7641622aad92&query=Business+cartoon"/>
 </div>
 
 <!-- Contribution Snake Grid Configuration -->
