@@ -1,99 +1,102 @@
-<!-- HEADER SECTION -->
-<div align="center">
-  <!-- Dynamic Neon Typing Animation for a high-end engineering profile -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=45&lines=Electronics+%26+Telecom+Engineer+⚡;President+%40+Dhruva+Astronomy+Club+🔭;Python+%7C+C+%7C+ARM+Assembly+%7C+MATLAB;CTF+Competitor+%7C+Crypto+%7C+Forensics+🔐" alt="Typing SVG" />
-</div>
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<a href="https://x.com/I_Aditya_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-<br/>
 
-<div align="center">
-  <!-- Real-time View Counter & Followers Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bedant-cybully.Pretty-Readme&color=00FFCC" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/bedant-cybully?tab=followers">
-    <img src="https://img.shields.io/github/followers/bedant-cybully?label=FOLLOWERS&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers"/>
-  </a>
-</div>
 
----
-
-### 🙋 About Me
-
-I am an **Electronics and Telecommunication Engineering** student at **RVCE**, building systems at the intersection of embedded hardware architectures, computational astrophysics, and digital forensics.
-
-- 🔭 **Leadership** — Serving as President of **Dhruva**, RVCE's Astronomy & Astrophysics club, overseeing our research, radio, optical, and data verticals.
-- 📡 **Radio Astronomy** — Designing, simulating, and building a pyramidal horn antenna from $2\text{mm}$ aluminum sheets to map the 21 cm neutral hydrogen line ($1420.4\text{ MHz}$).
-- 🔐 **Cybersecurity** — Active CTF competitor specializing in low-level cryptography protocols, blockchain security, and digital forensics.
-- ⚡ **System Rule** — **Debugging = $40\%$ Linear Algebra (SVD) + $30\%$ Scripting/Tcl + $30\%$ hoping the hardware matches the simulation.**
-
----
-
-### 🛠️ Languages & Frameworks & Tools
-
-<div align="center">
-  <!-- Interactive Core Languages & OS Environment Icons -->
-  <img src="https://skillicons.dev/icons?i=python,c,matlab,asm,linux,ubuntu,bash&perline=7" /><br/>
-  <!-- Development Ecosystem & Infrastructure -->
-  <img src="https://skillicons.dev/icons?i=apple,docker,git,github,vscode,figma&perline=6" />
-</div>
+- 👨🏻‍💻 My expertise encompasses both manual and automated testing methodologies, complemented by a strong proficiency in a diverse array of testing tools and frameworks.
+- 🥅 Coding automation projects ⚡
+- 🔭 Deeply committed to achieving product excellence. ⚡
 
 <br />
+<br />
 
-<div align="center">
-  <!-- Engineering, Hardware Simulation & AI Copilot Badges -->
-  <img src="https://img.shields.io/badge/LTspice-Circuit%20Simulation-blue?style=flat-square&logoColor=fff" alt="LTspice"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vivado-VIO%20%7C%20Tcl%20Automation-orange?style=flat-square&logoColor=fff" alt="Vivado"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/openEMS-EM%20Field%20Solver-brightgreen?style=flat-square&logoColor=fff" alt="openEMS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=fff" alt="Claude"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff" alt="Gemini"/>
-</div>
+## Connect with me 🔗: 
+[<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="adityamangal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+<a href="https://dev.to/adityamangal1">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Mangal's DEV Community Profile" height="30" width="30">
+</a>
 
----
-
-### 📊 Performance Analytics
-
-<div align="center">
-  <!-- Dynamic GitHub Status Overview Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bedant-cybully&show_icons=true&theme=radical&hide_border=true&count_private=true" height="185" alt="GitHub Stats"> 
-</div>
-
-<br/>
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img
+src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 <p align="center">
-  <!-- Profile Accomplishment Trophies Grid -->
-  <img src="https://github-profile-trophy.vercel.app/?username=bedant-cybully&theme=flat&margin-w=15">
-</p>
-
----
-
-### 🐍 The Contribution Grid
-
-Below is the dynamic canvas where an animated pixel snake runs through and crawls across my historical commit grid.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bedant-cybully/bedant-cybully/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bedant-cybully/bedant-cybully/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bedant-cybully/bedant-cybully/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-### 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/bedant-cybully">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
 <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adityamangal1.Pretty-Readme">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2021-blueviolet">
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+  
+
+  <h2>Languages & Frameworks & Tools</h2>
 
 <p align="center">
-  <strong>Happy Engineering</strong> 📡⚡
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+  <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <code><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
+ 
+</a>
+  
+  <a href="https://github.com/adityamangal1">
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  </a>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+
 </p>
+</p>
+
+<!-- ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif) -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&&theme=radical"> 
+
+  
+
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
+</p>
+
+  <div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
+
+
+![snake svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://i.stack.imgur.com/NSHyg.gif">
+  
+  <br>
+  <strong>Happy Coding</strong> ❤️
+</p>
+
+<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
