@@ -2,9 +2,6 @@
 <a href="https://github.com/bedant-cybully" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="GitHub Profile" align="right"></a>
 
 - 👨🏻‍💻 **RVCE**
-- 🔭 **ASTROPHYSICS**
-- 🔐 **CTFs**
-- SOMEONE HELP ME COMPLETE MY DSA
 
 <br />
 <br />
@@ -24,7 +21,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
   
 
-  <h2>Languages, Tools & Simulation Ecosystems <img src="https://img.icons8.com/ios-filled/30/E23636/spiderman-old.png"/></h2>
+  <h2>Languages, Tools & Simulation Ecosystems 🕸️</h2>
 
 <p align="center">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
@@ -54,7 +51,10 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 </p>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bedant-cybully&show_icons=true&theme=radical&hide_border=true"> 
+<!-- Fixed single ampersand link here -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bedant-cybully&show_icons=true&theme=radical&hide_border=true"> 
+</div>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=bedant-cybully&theme=flat&margin-w=15">
@@ -87,10 +87,6 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-<div>
-  <img src="https://www.magnific.com/free-vector/xaillustration-businessman-celebrating-success-by-raising-his-hands_176962760.htm#fromView=keyword&page=1&position=0&uuid=18093e05-10fc-4cd9-92ba-7641622aad92&query=Business+cartoon"/>
-</div>
-
 <!-- Contribution Snake Grid Configuration -->
 <div align="center">
   <picture>
@@ -104,7 +100,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <img alt="Sloan, the sloth mascot" width="250px" src="https://i.stack.imgur.com/NSHyg.gif">
   
   <br>
-  <strong>Happy Coding</strong> ❤️ <img src="https://img.icons8.com/ios-filled/25/E23636/spiderman-old.png"/>
+  <strong>Happy Coding</strong> ❤️ 🕸️
 </p>
 
 <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
