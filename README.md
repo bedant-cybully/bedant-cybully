@@ -1,10 +1,10 @@
 ## BEDANT SHAURYA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <a href="https://github.com/bedant-cybully" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="GitHub Profile" align="right"></a>
 
-- 👨🏻‍💻 **Electronics and Telecommunication Engineering** student at RVCE, bridging hardware engineering with software architectures.
-- 🔭 **President of Dhruva** (RVCE's Astronomy & Astrophysics Club) — managing data-driven infrastructure, radio telescope systems, and research verticals.
+- 👨🏻‍💻 **Electronics and Telecommunication Engineering** student at RVCE.
+- 🔭 **Astrophysics**
 - 📡 Working on custom hardware setups, radio metrics, and electromagnetic field simulations to capture the 21 cm neutral hydrogen line ($1420.4\text{ MHz}$).
-- 🔐 Active **CTF Competitor** exploring cryptography primitives, digital forensics, and blockchain exploit concepts.
+- 🔐 TRYING **CTFs**.
 
 <br />
 <br />
