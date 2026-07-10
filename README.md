@@ -1,10 +1,10 @@
 ## BEDANT SHAURYA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <a href="https://github.com/bedant-cybully" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="GitHub Profile" align="right"></a>
 
-- 👨🏻‍💻 **Electronics and Telecommunication Engineering** student at RVCE.
-- 🔭 **Astrophysics**
+- 👨🏻‍💻 **4TH SEMESTER Electronics and Telecommunication Engineering** student at RVCE.
+- 🔭 **ASTROPHYSICS**
 - 📡 Working on custom hardware setups, radio metrics, and electromagnetic field simulations to capture the 21 cm neutral hydrogen line ($1420.4\text{ MHz}$).
-- 🔐 TRYING **CTFs**.
+- 🔐 **CTFs**
 
 <br />
 <br />
@@ -19,12 +19,12 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 
 <p align="center">
 <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bedant-cybully.Pretty-Readme&color=00FFCC">
-  <img src="https://img.shields.io/badge/Open--Source-Enthusiast-blueviolet">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bedant-cybully.Pretty-Readme&color=E23636">
+  <img src="https://img.shields.io/badge/Open--Source-Enthusiast-E23636">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
   
 
-  <h2>Languages, Tools & Simulation Ecosystems</h2>
+  <h2>Languages, Tools & Simulation Ecosystems <img src="https://img.icons8.com/ios-filled/30/E23636/spiderman-old.png"/></h2>
 
 <p align="center">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
@@ -36,8 +36,8 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <code><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
   </a>
   
-  <a href="https://github.com/bedant-cybully">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <a href="https://en.wikipedia.org/wiki/Verilog">
+  <code><img src="https://img.shields.io/badge/Verilog-%232C3E50.svg?&style=for-the-badge&logo=cpu&logoColor=white"/></code>
   </a>
 
   <br><br>
@@ -100,7 +100,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <img alt="Sloan, the sloth mascot" width="250px" src="https://i.stack.imgur.com/NSHyg.gif">
   
   <br>
-  <strong>Happy Engineering</strong> 📡⚡
+  <strong>Happy Coding</strong> ❤️ <img src="https://img.icons8.com/ios-filled/25/E23636/spiderman-old.png"/>
 </p>
 
 <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
